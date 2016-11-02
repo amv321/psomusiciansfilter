@@ -1,4 +1,5 @@
 # Facebook Filter 
+*** code sourced from https://github.com/Zyloc/Facebook-Filter ***
 This is simple web app developed using Javascript to add filters to the picture
 
 #How to use it
